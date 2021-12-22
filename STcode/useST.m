@@ -7,6 +7,9 @@ function CMCN = useST(source, ref)
 
 %   References:
 %   I. Zabaleta and M. Bertalmio, "Photorealistic Style Transfer for 
+%   Video" % In Signal Processing: Image Communication, 2021.
+%
+%   I. Zabaleta and M. Bertalmio, "Photorealistic Style Transfer for 
 %   Cinema Shoots" % In Proceedings of Colour and Visual Computing 
 %   Symposium (CVCS), 2018.
 % 
