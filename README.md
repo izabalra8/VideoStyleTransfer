@@ -1,5 +1,7 @@
 # Video Style Transfer
 
+![img/CG3.jpg](img/CG3.jpg)
+
 This repository contains the code for the paper [Photorealistic Style Transfer for Video](https://www.sciencedirect.com/science/article/pii/S0923596521000953).
 
 ## Overview
