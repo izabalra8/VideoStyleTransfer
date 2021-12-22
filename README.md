@@ -1,8 +1,9 @@
 # Video Style Transfer
 
-![img/CG3.jpg](img/CG3.jpg)
-
 This repository contains the code for the paper [Photorealistic Style Transfer for Video](https://www.sciencedirect.com/science/article/pii/S0923596521000953).
+
+<img src="img/CG3.jpg" alt="cg3"  height="120">
+
 
 ## Overview
 
@@ -12,4 +13,8 @@ The original dataset is from [isbi challenge](http://brainiac2.mit.edu/isbi_chal
 
 You can find it in folder data/membrane.
 
-### Data augmentation
+## How to use
+
+### Dependencies
+
+### Run 
