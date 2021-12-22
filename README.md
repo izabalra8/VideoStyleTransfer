@@ -8,13 +8,16 @@ This repository contains the code for the paper [Photorealistic Style Transfer f
 ## Overview
 
 ### Data
+Image sequences are property of RED cinema, Blackmagic, A24, and Paramount pictures.
 
-The original dataset is from [isbi challenge](http://brainiac2.mit.edu/isbi_challenge/), and I've downloaded it and done the pre-processing.
-
-You can find it in folder data/membrane.
+### Model
 
 ## How to use
 
 ### Dependencies
 
-### Run 
+This tutorial depends on Matlab. 
+
+### Run useST.m
+
+You will see the results in img/results
