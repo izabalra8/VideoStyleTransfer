@@ -1,6 +1,5 @@
 function main()
-%   useST(source, ref) returns the style transfered source image -result-,
-%   according to the reference image -ref-.
+%   main() generates a style transfered image according to the style of a reference image.
 %
 %   -sourceRAW- is a RAW (demosaiced, whitebalanced) linear image, -ref- is a
 %   gamma corrected image (jpeg, png, etc).
