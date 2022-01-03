@@ -16,11 +16,11 @@ Image sequences are property of RED cinema, Blackmagic, A24, and Paramount pictu
 
 ### Dependencies
 
-This tutorial depends on Matlab. 
+This repository depends on Matlab. 
 
 ### Run main.m
 
-You can simply use the file main.m to run the demo using some example images. 
+You can simply use the file main.m to run the demo using some given example images. 
 
 To use your own images, save the RAW source image and the reference image on the folders `img/source` and `img/ref` under the names `source.jpg` and `ref.jpg` respectively.
-You will see the results in `img/results`
+You will see the results in `img/results`.
