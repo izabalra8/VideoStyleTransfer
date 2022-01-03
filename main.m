@@ -15,9 +15,9 @@ function main()
 % 
 %   This code is property of Universitat Pompeu Fabra. 
 
-source=imread('img\source.jpg');
+sourceRAW=imread('img\source.jpg');
 ref=imread('img\ref.jpg');
 
-result = useST(source, ref);
+result = useST(sourceRAW, ref);
 
 imwrite(result, 'img/results/result.jpg', 'Quality', 100);
