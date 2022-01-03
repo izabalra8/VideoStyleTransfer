@@ -20,4 +20,5 @@ This tutorial depends on Matlab.
 
 ### Run main.m
 
+You can simply use the file main.m to run the demo using some example images. To use your own images, save the source and the reference images on the folders `img/source` and `img/ref` respectively.
 You will see the results in img/results
