@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper [Photorealistic Style Transfer for Video](https://www.sciencedirect.com/science/article/pii/S0923596521000953).
 
-<img src="img/CG3.jpg" alt="cg3"  height="120">
+<img src="CG3.jpg" alt="cg3"  height="120">
 
 
 ## Overview
