@@ -18,6 +18,6 @@ Image sequences are property of RED cinema, Blackmagic, A24, and Paramount pictu
 
 This tutorial depends on Matlab. 
 
-### Run useST.m
+### Run main.m
 
 You will see the results in img/results
